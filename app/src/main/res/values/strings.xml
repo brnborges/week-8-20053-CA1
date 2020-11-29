@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tea Shop</string>
+    <string name="choice_made">Good Choice</string>
+    <string name="tea_option">Tea option</string>
+    <string name="price_tea">€8.50</string>
+    <string name="button_add">Add to cart</string>
+</resources>
